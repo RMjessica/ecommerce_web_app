@@ -1,12 +1,13 @@
-# WebApp boilerplate with React JS and Flask API
+# This is Liberté! An ecommerce WebApp build with React JS and Flask API
+### 🔥 You can find the deployed version here: [https://liberte-app.herokuapp.com/](https://liberte-app.herokuapp.com/login)
+### There is more to come and much more to learn. This project is a work in progress 💪 
+
+If you are interested in accessing the boilerplate with which this app got started, click on the button below. 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-flask-hello.git)
-
 > Documentation: https://start.4geeksacademy.com/
 
-<p align="center">
-<a href="https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b"><img src="https://github.com/4GeeksAcademy/flask-rest-hello/blob/main/docs/assets/how-to.png?raw=true?raw=true" /></a>
-</p>
+### Description
 
 - React.js front end and python/flask backend for your web application.
 - Extensive documentation [here](https://start.4geeksacademy.com/).
